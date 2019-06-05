@@ -1,26 +1,5 @@
-# Last.fm API Bindings for Java
+# Last.fm API Bindings for Kotlin
 
-The Last.fm API bindings for java are a BSD-licensed wrapper for the [Last.fm api](http://www.last.fm/api) and the Last.fm submission service (scrobbling).
+The Last.fm API bindings for kotlin are a BSD-licensed wrapper for the [Last.fm api](http://www.last.fm/api) and the Last.fm submission service (scrobbling).
 
-It provides classes and methods to invoke Last.fm API methods as well as scrobbling songs ~~and streaming radio~~ from within Java applications.
-
-### Maven
-```
-<dependency>
-    <groupId>com.u-mass</groupId>
-    <artifactId>lastfm-java</artifactId>
-    <version>0.1.2</version>
-</dependency>
-```
-
-### Gradle
-```
-compile 'com.u-mass:lastfm-java:0.1.2'
-```
-
-### Documentation
-
-To get started, start [here](https://github.com/jkovacs/lastfm-java/wiki/Getting-Started).
-
-More documentation can be found in the [Wiki](https://github.com/jkovacs/lastfm-java/wiki).
-
+It provides classes and methods to invoke Last.fm API methods as well as scrobbling songs ~~and streaming radio~~ from within Kotlin(JVM) applications.
