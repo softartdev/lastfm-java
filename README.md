@@ -7,7 +7,7 @@ It provides classes and methods to invoke Last.fm API methods as well as scrobbl
 ### Maven
 ```
 <dependency>
-    <groupId>de.u-mass</groupId>
+    <groupId>com.u-mass</groupId>
     <artifactId>lastfm-java</artifactId>
     <version>0.1.2</version>
 </dependency>
@@ -15,7 +15,7 @@ It provides classes and methods to invoke Last.fm API methods as well as scrobbl
 
 ### Gradle
 ```
-compile 'de.u-mass:lastfm-java:0.1.2'
+compile 'com.u-mass:lastfm-java:0.1.2'
 ```
 
 ### Documentation
